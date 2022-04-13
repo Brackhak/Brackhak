@@ -2,6 +2,8 @@
 
 I'm studying in Computer Engineer
 
+[Facebook](https://web.facebook.com/Chatdabai/)<br>
+
 <!--
 **Brackhak/Brackhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
