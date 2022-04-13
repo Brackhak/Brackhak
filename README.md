@@ -18,7 +18,22 @@ And I'm member Infomation Security and Advisory Group(ISAG)
 <a href="https://www.youtube.com/user/tmgame007/videos">
    <img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white>
 </a>
+<a href="https://www.tiktok.com/@chattotum">
+   <img src=https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white>
+</a>
 
+
+
+Gaming
+a href="https://steamcommunity.com/profiles/76561198106182272/">
+   <img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white>
+</a>
+a href="https://www.origin.com/tha/th-th/profile/achievements">
+   <img src=https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white>
+</a>
+
+
+https://github-readme-stats.vercel.app/api?username={Brackhak}
 <!--
 **Brackhak/Brackhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
