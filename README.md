@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 I'm studying in Computer Engineer
 And I'm member Infomation Security and Advisory Group(ISAG) 
