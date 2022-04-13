@@ -8,7 +8,7 @@ And I'm member Infomation Security and Advisory Group(ISAG)
 
 
 
-![Brackhak's GitHub stats](https://github-readme-stats.vercel.app/api?username=brackhak&show_icons=true&theme=dracula)<br>
+![Brackhak's GitHub stats](https://github-readme-stats.vercel.app/api?username=brackhak&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brackhak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social
