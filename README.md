@@ -1,19 +1,9 @@
 ### Hi there 👋
 
-I'm studying in Computer Engineer
 
-   ___          /  /\         /  /\         /  /\
-   /  /\        /  /:/_       /  /::\       /  /:/_
-  /  /:/       /  /:/ /\     /  /:/\:\     /  /:/ /\
- /__/::\      /  /:/ /::\   /  /:/~/::\   /  /:/_/::\
- \__\/\:\__  /__/:/ /:/\:\ /__/:/ /:/\:\ /__/:/__\/\:\
-    \  \:\/\ \  \:\/:/~/:/ \  \:\/:/__\/ \  \:\ /~~/:/
-     \__\::/  \  \::/ /:/   \  \::/       \  \:\  /:/
-     /__/:/    \__\/ /:/     \  \:\        \  \:\/:/
-     \__\/       /__/:/       \  \:\        \  \::/
-                 \__\/         \__\/         \__\/
 
-![Tum Chatdanai](./164075348_5209713935769324_8692350003878630785_n.jpg)
+
+![Tum Chatdanai](https://cdn.discordapp.com/attachments/876773640367136799/895594299750748170/banner-welcome.gif)
 
 [Facebook](https://web.facebook.com/Chatdabai/)<br>
 [Instragram](https://www.instagram.com/tumchatda__/)<br>
