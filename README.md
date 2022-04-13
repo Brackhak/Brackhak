@@ -29,7 +29,7 @@ And I'm member Infomation Security and Advisory Group(ISAG)
    <img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white>
 </a>
 <a href="https://www.origin.com/tha/th-th/profile/achievements">
-   <img src=https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white>
+   <img src=https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white>
 </a>
 
 
