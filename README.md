@@ -2,6 +2,8 @@
 
 I'm studying in Computer Engineer
 
+![Tum Chatdanai](https://web.facebook.com/photo/?fbid=5628110037263043&set=a.105170619557040)
+
 [Facebook](https://web.facebook.com/Chatdabai/)<br>
 [Instragram](https://www.instagram.com/tumchatda__/)<br>
 [Youtube](https://www.youtube.com/user/tmgame007/videos)<br>
