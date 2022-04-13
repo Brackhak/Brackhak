@@ -6,6 +6,13 @@ And I'm member Infomation Security and Advisory Group(ISAG)
 
 ![Tum Chatdanai](https://cdn.discordapp.com/attachments/876773640367136799/895594299750748170/banner-welcome.gif)
 
+
+
+![Brackhak's GitHub stats](https://github-readme-stats.vercel.app/api?username=brackhak&show_icons=true&theme=dracula)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brackhak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Social
+<p align="center">
 <a href="https://web.facebook.com/Chatdabai/">
    <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white>
 </a>
@@ -21,19 +28,20 @@ And I'm member Infomation Security and Advisory Group(ISAG)
 <a href="https://www.tiktok.com/@chattotum">
    <img src=https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white>
 </a>
-
+</p>
 
 
 ## Gaming
+<p align="center">
 <a href="https://steamcommunity.com/profiles/76561198106182272/">
    <img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white>
 </a>
 <a href="https://www.origin.com/tha/th-th/profile/achievements">
    <img src=https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white>
 </a>
+</p>
 
 
-https://github-readme-stats.vercel.app/api?username=Brackhak
 <!--
 **Brackhak/Brackhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
