@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+I'm studying in Computer Engineer
+And I'm member Infomation Security and Advisory Group(ISAG) 
 
 
 ![Tum Chatdanai](https://cdn.discordapp.com/attachments/876773640367136799/895594299750748170/banner-welcome.gif)
