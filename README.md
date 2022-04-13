@@ -3,6 +3,9 @@
 I'm studying in Computer Engineer
 
 [Facebook](https://web.facebook.com/Chatdabai/)<br>
+[Instragram](https://www.instagram.com/tumchatda__/)<br>
+[Youtube](https://www.youtube.com/user/tmgame007/videos)<br>
+[Twitter](https://twitter.com/Brackhak)<br>
 
 <!--
 **Brackhak/Brackhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
